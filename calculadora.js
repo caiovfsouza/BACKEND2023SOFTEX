@@ -32,7 +32,7 @@ do {
       b = true;
     } else {
       b = false;
-      console.error(`Opção inválida! Insira uma operador válido!`);
+      console.error(`Opção inválida! Insira um operador válido!`);
     }
   } while (b == false);
 
